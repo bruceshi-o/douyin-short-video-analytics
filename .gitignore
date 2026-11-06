@@ -1,0 +1,7 @@
+backend/data/
+frontend/node_modules/
+.pnpm-store/
+ml/__pycache__/
+*.pyc
+.idea/
+.vscode/
